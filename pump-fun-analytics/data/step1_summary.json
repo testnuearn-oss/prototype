@@ -1,0 +1,9 @@
+{
+  "total_launched": 19765,
+  "total_graduated": 37,
+  "total_active": 4,
+  "total_dead": 19724,
+  "graduation_rate_pct": 0.19,
+  "method": "on_chain_bonding_curve_pda",
+  "enriched_at": 1771481641
+}
